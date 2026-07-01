@@ -16,4 +16,4 @@ If all three numbers are equal, the program will notify the user with the messag
 2. Open your terminal or command prompt.
 3. Run the following command:
 ```bash
-python max_finder.py
+python max_.py
